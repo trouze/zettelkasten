@@ -1,0 +1,89 @@
+Find opportunities to build trust with who you're selling to. Examples being that you encourage them to seek out other vendors.
+#sales #trust
+Approach it as a trading game, give the pitch and move on.
+#sales #approach
+- The most important thing you will ever sell is yourself. (Appearance, manners, values, skills)
+- Get over fear of failure, rejections, embarrassment
+- Sell the idea to yourself first, confidence in it.
+- Overcome setbacks w/ positive attitude and stubborn determination
+- Help others, listen to their stories, they’ll become a part of yours
+- To sell you need a connection, learn buyers wants and needs
+- To sell- talk about the buyer, not the item you’re selling or something related to the seller.
+- Match buyer with product
+- Think selling a home, find buyers needs first
+- Lot of secret to happiness lies not in wealth or status but on how well you read and deal with those around us. Making success in a career? This is a must, depends on this skill
+- Change other’s behavior by changing one’s behavior toward them
+- Salespeople know how to negotiate- involves listening carefully, evaluating variables, overcoming obstacles, reaching agreement.
+    - Learn Determination – see no as a challenge, not rejection.
+    - Gain confidence – overcome and score a victory
+    - Get other people to agree with them
+    - Practice self-discipline
+- Debt collector turned salesman of solutions
+- Don’t waste time, find if sale is imminent or not
+- People lie to salespeople to avoid confrontation
+- Good salespeople don’t have happy ears, understand reality, celebrate when payment is received.
+- Successful selling depends on empathy with customers focusing on a solution that benefits both sides
+- Perfect sale – customer believes they are in control of situation, transaction that benefits both buyer and seller
+- Potential buyers provide trust and support because they want to give it to you
+- God helps those who help themselves when their motive aligns with his will. Be active, in faith and life, god will help you. Work to please the Lord, not man.
+- Only thing you can expect from life is the right to prove yourself
+- Life is a marathon, it’s not how you start, it’s how you finish.
+- You don’t need to be an extrovert to be good in sales, just be better socially, be persistent at getting better in sales.
+- Set a goal, reach it, go higher
+- Have general confidence in ability to succeed
+- Be sincerely interested in other people
+- Training and enthusiasm are important in sales, have the desire and energy
+- Work hard, learn something new (everyday?) enjoy yourself
+- Start from ground up, basic skills to mastering
+- Selling is getting your point across
+- Appreciate needs and expectations
+- Organize thoughts first, appreciate other person’s point of view, listen closely
+- Listen more, respond to their words, not just thinking of what to say next to keep conversation
+- Failure is never a disaster but rather showing you where and what needs improvement
+- 4 traits of good salespeople: Believe in what they do (what they’re selling, importance of job). They enjoy the company of people (look forward to meeting people, asking about them, take serious interest in them). Spend more time listening than talking (ask questions, listen carefully). Make the connection between selling skills and life (persuade others to see your point of view, follow you lead, value your abilities).
+- Emotion trumps intellect – all the data in the world but buying decision is on how you feel about it.
+- You need intellect and emotion in life, don’t forget about the emotions, most happiness comes from it.
+- No one owes you anything in life.
+- If there’s a bank account of life, your starting balance is 0. Work for happiness and self-satisfaction.
+- No one has to love and respect you, never expect that they will on their own.
+- People don’t owe you their respect and love, you need to earn it.
+- The only person who owes you anything is yourself
+- When things go wrong, often the root cause can be seen in the mirror
+- Best route to success is to view the dark side of reality not as something to overcome of fear, but to accept and apply it
+- Dreams are basis in creativity, don’t live your entire life in dreams
+- To get something from someone else you must enter their world find how the think, what’s important, their wants and needs.
+- All you are owed is opportunity.
+- Life is unfair
+- Nothing worthwhile is achieved without risk, take chances, you live once
+- Have passion – in everything really
+- Don’t work on weaknesses unless necessary, focus on strengths, make them stronger, make them exceptional that will get you paid.
+- Find a love to win
+- Don’t necessarily quit, but “pivot”
+- Believe in youself
+- Be honest with yourself, know what makes you happy, what your limitations are, goals, skills
+- 10 Things Needed when making a change in life
+    - Be disciplined – work ethic
+    - Be focused – what do you want, goals
+    - Be competitive
+    - Be resourceful
+    - Be passionate
+    - Be critically minded
+    - Be persistent – you’ll no, don’t let it discourage you
+    - Be curious
+    - Be confident
+    - Be happy
+- Zen approach: don’t focus on telling your body what to do and how to do it, but rather think about something else
+- Be yourself, be natural
+- Have the confidence people will like you
+- Don’t imagine what they are thinking about
+- How good salespeople stay themselves
+    - Think about values and standards
+    - Open and honest attitude with oneself
+    - Pay attention to what’s happening around not within, they don’t overthink what happens around them either
+    - React naturally to what they see and hear
+    - Forget about aiming to please
+    - Don’t worry about how others see them, comfortable in own skin
+    - Worried about being honest and authentic
+    - Concentrate on what needs to be done in private and professional life
+    - Manage personal situations honestly and openly
+    - Inner voice is quiet around those you enjoy, find more of this in everyone

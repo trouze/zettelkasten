@@ -1,0 +1,1 @@
+The path to lifetime job security is to be remarkable. Take high profile projects. #purplecow #sethgodin #jobsecurity

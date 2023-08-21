@@ -1,0 +1,70 @@
+- You will be the same exact person in five years as you are today, except for the people you meet and the books you read. #growth
+- Give.
+- Say yes.
+- Speak the language of the person you hope to become, talk about the things you want to do/become, when you do the universe has a weird way of bringing those things to fruition.
+- Strong minds talk about ideas, weak minds talk about other people. Average people talk about events.
+- We are lifelong learners
+- Hardest times can lead to the greatest moments.
+- Attitude, choices, and effort
+- Live out your dreams, take chances on what’s in your heart
+- Row the boat
+- The dream is in the journey, not the destination.
+- If you haven’t found that “it” thing yet, then what makes you think you’ll find it doing the same things you’ve always been doing?
+- You can’t do A+ things with D+ people.
+- Say yes.
+- If you were 99 years old and, on your deathbed, looking back on today, what would you do differently. –Yes Theory
+- Growth mindset, it’s not that it won’t ever happen, just not yet.
+- Energy is contagious, the energy you bring to situations, circumstances, relationships, etc. will almost certainly make them better and more rewarding
+- Surround yourself with those you wish to become.
+- “Color outside the lines of your life” Kenny Chesney
+- Believe that everything happens for you, not to you. Don’t be a victim.
+- Never forget where you came from.
+- Scared money don’t make money
+- Your personality and thoughts create your reality.
+- Meditate, control your thoughts, be aware of your thoughts, practice mindfulness.
+- Don’t fall into a routine, you only learn and grow by doing new things, say yes, seek discomfort.
+- Start with gratitude when dealing with people or anything, thank the universe every day.
+- Fortunes are rarely made following the crowd
+- Ask the universe to put someone in front of you that needs help, every day. Don’t be afraid to help yourself though, because the better you are, the more people you can help.
+- Remember that going through difficult times allows you to **A.** learn lessons so that you can help other people in the future and **B.** create more gratitude in you when things are good, and **C.** make you tougher for the next challenge, each challenge you tackle the greater you will be and the more lives you will be able to affect and the more influence you will have
+- What you put out into the world will always come back for you.
+- Listen to understand, not to respond.
+- Inaction bread fear and doubt. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy.
+- Self confidence is about keeping the promises you make to yourself. If you don’t, you lower your self confidence.
+- When things start going your way, turn up the thermostat on your identity with it. Make those newfound experiences part of your identity, as well as the responsibility that comes with such success.
+- When you find a suitable partner, do something active with them (walk, workout, etc.) Physical activity changes your state and it strengthens your bond, clears you mind, good time for effective communication.
+- Marketing and innovation produce results, the rest are just costs.
+- A hard day of work is the easiest thing to do, keeps your mind occupied, keeps you from getting stagnant.
+- Do all things in life with the utmost enthusiasm. You never know what will come of your energy.
+- 3 human social needs are to be liked, included, and to have a sense of control over their life.
+- See your struggles as a privilege, it gives you advantage over others who “have it easier”.
+- The competition is the most at the bottom of the pyramid because it’s easy and there’s the most people at the bottom.
+- Pay attention to the details, when you have all the details carefully taken care of you will have confidence.
+- Pursue micro-goals in the short term, you don’t need one big dream. It’s possible you go your whole life without achieving that dream so accomplish small ones along the way, you never know where they might take you. Once you’ve accomplished one, be on the look out for the next in your periphery.
+- You can’t truly take credit for your successes, and you can’t truly blame others for their failures.
+- Be hard on your beliefs.
+- Define yourself by things you love.
+- Judge people on how they treat the least powerful. As for you, you should treat the least powerful with the most respect.
+- Conditions aren’t always going to be perfect, mental toughness is doing it anyway.
+- Don’t be afraid of confrontation
+- Don’t sell the product, sell the feeling.
+- We become what we think about.
+- Do your research, find what the truth is to you. Readily admit when you're wrong in the face of data/information telling you otherwise. Don't dig your heels in further.
+- Decision fatigue is real, reduce the number of decisions you have to make in a day. Only make big decisions, purchases, and decide on risks in the morning when you aren't fatigued yet.
+- Everything happens for you, not to you. Don't be a victim.
+- Never forget where you came from.
+- Scared money don't make money.
+- Your personality and thoughts create your reality.
+- The dream is in the journey, happiness in not a function of outcomes alone. While outcomes are a byproduct of the journey, they should not be the absolute focus, smile about the struggle.
+- Don't fall into a routine, you only learn and grow by doing new things. While routines for part of the day are a great structure and process to taking another step along the journey, remember to save time for stretching your imagination and skills.
+- Start with gratitude. Say thank you everyday.
+- Fortunes are rarely made following the crowd.
+- Ask the universe to put someone in front of you that needs help everyday.
+- Have a mission greater than yourself to focus on, bring fulfillment and happiness.
+- Find something to be thankful for when things aren't going so well.
+- What you put out into the world will always come back for you.
+- Listen to understand, not to respond.
+- Drop the anchor, grab a propellor.
+- A cheerful heart makes its own song.
+- Humble, Listen, Learn.
+- Pretend to be the person you wish to become, and at some point you’ll become them, or perhaps they became you.

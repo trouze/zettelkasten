@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c51a62a166261bfa",
+        "id": "a914b9a56480fe7d",
         "type": "tabs",
         "children": [
           {
-            "id": "e43309515112bf9f",
+            "id": "06eaa6ea7b817187",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Life/Relationships/Win Friends & Influence People.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Life/Relationships/Win Friends & Influence People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Life/Relationships/Win Friends & Influence People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Life/Relationships/Win Friends & Influence People.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -138,8 +147,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e43309515112bf9f",
+  "active": "06eaa6ea7b817187",
   "lastOpenFiles": [
+    "Life/Relationships",
+    "Life/Relationships/Win Friends & Influence People.md",
+    "Financial/Income/Making Money.md",
+    "Financial/Income",
+    "Career/Entrepreneurship/go giver.md",
+    "Life/twentysomething.md",
+    "Life/mindset and approach.md",
+    "Financial/Markets/Conceptual.md",
+    "Skills/Untitled.md",
+    "Financial/Markets",
+    "Skills/storytelling.md",
+    "Career/Sales/sales.md",
+    "Life/Anthropology/Charisma.md",
+    "Career/Sales",
+    "Career/Never Eat Alone.md",
+    "Career/Motivation/Self.md",
+    "Life/Anthropology/Ego.md",
+    "Career/Motivation",
+    "Career/Quotes.md",
+    "Career/Marketing/Product Market Fit.md",
+    "Career/Entrepreneurship",
+    "Life/Anthropology/Evolution.md",
+    "Career/Marketing",
+    "Career/Entrepreneurship/entrepreneurship.md",
+    "Life/Anthropology/Social Anxiety.md",
+    "Life/Anthropology",
+    "Life/humans.md",
+    "Life/habit building.md",
+    "Life/lessons.md",
+    "Career/Sales/Untitled.md",
+    "Career/Sales",
+    "Skills/minto.md",
+    "Skills",
+    "Financial",
     "test.md"
   ]
 }

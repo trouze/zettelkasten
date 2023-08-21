@@ -1,0 +1,28 @@
+- Business is and always will be about people, nothing else, business of humanity. How you can harness the power of those people will determine how successful a manager can make a business.
+- Bury your boomerangs:
+    - Don’t criticize, condemn, or complain.
+    - Bitch at people and you won’t be a good leader of them
+- Affirm what’s good
+    - Make known what others do well, show appreciation and they will work harder
+- Connect with core desires
+    - More difficult to do, find out about them and use what their wants or needs are to get an action out of them. Listen first. Authentic dialogue, interested, transparent.
+- 6 ways to make a lasting impression
+    - Take interest in other’s interests, dog as a role model, they always take interest in you, think of other first
+    - Smile, people gravitate toward this, people always understand it and are receptive to it
+    - Names, remembering a name is a strong asset, makes people comfortable, restaurant story where businessman went to restaurant with client once, came back and they knew his name, now the only restaurant he goes to when in town. Develops brand and relationships.
+    - Listen – People want to be heard, hand in hand with being interested in them, listen to learn and better understand
+- Always leave people a little better than before you interacted with them
+- Don’t argue, take it as a chance to better understand that person, where they’re coming from, what they feel
+- Choose the path of humility, admit mistakes/fault sooner than later, remember that humans aren’t perfect and don’t let people think you are
+- Start every interaction with friendliness
+- Access affinity early, get people to say yes/agree with you when beginning interaction, they will be more likely to say yes later on as long as you maintain empathy. Think of it as getting someone on your side, agree with you that you want to reach a common goal
+- Success is about partnership and progress, don’t take credit, let it reciprocate
+- Empathy is a link to immediate affluence in human relation, what good does badmouthing do but make you feel better about yourself, put yourself in someone else’s shoes
+- Appeal to a noble cause
+- Share your journey, people will get behind it and market for you – think YES Theory, make you journey, our journey
+- Don’t shy away from competition, it’s what make us strive
+- Ask questions, listen, begin conversation on a positive note, acknowledge that you, too, make mistakes, call out mistakes quietly, don’t make a big deal out of them
+- Encourage others, especially when things aren’t going well, focus on those who you know have insecurities, praise after accomplishments, magnify improvement
+- Give others a vision to live up to, change your level of respect, act as though the trait you are trying to influence is already their strong suit
+- Common ground, connect your goals to someone else’s to get by resistance
+- Listen to others dreams, try to help them achieve, find ways to connect
