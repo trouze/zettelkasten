@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a914b9a56480fe7d",
+        "id": "d604ebb35cada853",
         "type": "tabs",
         "children": [
           {
-            "id": "06eaa6ea7b817187",
+            "id": "2cab94a11cf914ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Relationships/Win Friends & Influence People.md",
+                "file": "Life/Cyclic Theory of Subcultures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Relationships/Win Friends & Influence People.md",
+                "file": "Life/Cyclic Theory of Subcultures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Relationships/Win Friends & Influence People.md",
+                "file": "Life/Cyclic Theory of Subcultures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Relationships/Win Friends & Influence People.md"
+                "file": "Life/Cyclic Theory of Subcultures.md"
               }
             }
           }
@@ -147,10 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06eaa6ea7b817187",
+  "active": "2cab94a11cf914ac",
   "lastOpenFiles": [
-    "Life/Relationships",
+    "Life/Understanding People/Books.md",
+    "Life/Cyclic Theory of Subcultures.md",
+    "Life/Understanding People",
     "Life/Relationships/Win Friends & Influence People.md",
+    "Life/Relationships",
     "Financial/Income/Making Money.md",
     "Financial/Income",
     "Career/Entrepreneurship/go giver.md",
@@ -181,8 +184,6 @@
     "Career/Sales/Untitled.md",
     "Career/Sales",
     "Skills/minto.md",
-    "Skills",
-    "Financial",
     "test.md"
   ]
 }
