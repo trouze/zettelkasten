@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Cyclic Theory of Subcultures.md",
+                "file": "Life/Anthropology/Evolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Cyclic Theory of Subcultures.md",
+                "file": "Life/Anthropology/Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Cyclic Theory of Subcultures.md",
+                "file": "Life/Anthropology/Evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Cyclic Theory of Subcultures.md"
+                "file": "Life/Anthropology/Evolution.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "2cab94a11cf914ac",
   "lastOpenFiles": [
-    "Life/Understanding People/Books.md",
     "Life/Cyclic Theory of Subcultures.md",
+    "Life/Understanding People/Books.md",
     "Life/Understanding People",
     "Life/Relationships/Win Friends & Influence People.md",
     "Life/Relationships",
