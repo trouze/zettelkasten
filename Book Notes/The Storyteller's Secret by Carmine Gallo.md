@@ -1,0 +1,68 @@
+Tags: Book Notes, Published
+Created: August 2, 2020 10:37 PM
+Updated: August 6, 2020 1:07 PM
+
+- Great storytellers are passionate and inspired themselves. Whatever makes your heart sing will be the basis on which great stories are built.
+- You don’t sell, you sell stories
+- The best have an unshakable belief in their ability to achieve the impossible
+- Goals versus Moonshots. Sometimes it pays to go for the gold when the circumstances present itself.
+- Audacity principle: convictions and self-confidence to pursue and articulate an idea no matter what.
+- Mesodiplosis: repetition of word or phrase in the middle of each phrase or clause. A powerful storytelling device
+- Be aware and manage the story you tell yourself
+- Share your backstory and how it shaped your life, career, etc. Embrace it too, all the way down to the embarrassing details.
+- A story of struggle or pain but reframed to embrace it
+- Potential is not rooted in backstory, it’s how you interpret your backstory
+- Find your platform and tell your story on there – as it happens
+- Classic storytelling structure: Begins with a fact, event or action, then a transformation occurs. Finally, you learn a lesson and lead on something better
+- What is your origin story? A captivating backstory can engage people.
+- Customers don’t buy a brand or logo as much as they do a set of values
+- “lifelong commitment to follow my heart wherever it led me”
+- Pgs 53-54 on purpose of company: “Brand is just an abstraction. I use that word sometimes but I’m not a big fan of the word because sometimes when people talk about managing their brand they move away from authenticity. Your brand is just the way people think about the company or the product so I don’t think the brand is more important than the purpose or the values of the organization…we’re not retailers with a mission, we’re missionaries who retail.” – Founder of Whole Foods
+- To succeed, you have to persuade others to support your vision, dream, or cause
+- Inspiring speakers build a story structure for every important pitch, presentation.
+- Villains, heroes, and struggle is a good story structure.
+- Use stories to build trust in a speech – 65% use the rest to logically reason and establish credibility
+- Violate expectations to stand out, be more effective speaker.
+- Good stories have unexpected twists
+- Use stories to connect facts, data, etc. to analogous ideas in which the audience will understand. How can you explain something complex like Neural Networks in a way all can understand?
+- Successful founders educate customers with relatable stories of how they created the product to solve a prob. Share those stories with specific, relevant details to transport the listener to their world.
+- Brands are a collection of narratives
+- The end of laughter is followed by heightened listening. Speaking of funny stories/situations can add to you effectiveness. You don’t have to be funny or a comedian per se.
+- Storytelling is not a press release, share your personal story and your customers stories on every platform
+- Successful brands are storytellers first
+- Business is all about how you make people feel stories help internalize the behaviors you’d like you team/culture to model
+- Great leaders are great simplifiers
+- Great story has a great headline – Twitter pitch length, build on each as you walk listener along with you.
+- Use the rule of three: 3 short stories, top 3 ideas, 3 main features. Humans can be reasonably expected to remember 3 items.
+- Passion, smiles, energy, conversational. Passionate about message, approach it in a personable way – as though you’re having a 1 on 1 conversation.
+- Lower the noise on PowerPoint slides, strengthen the signal.
+- Tell stories visually, use analogies to plant visualizations. Chris Hadfield: foot in the small of back to describe takeoff
+- Ship in a bottle metaphor for feeding stories. Entrance to bottle is working memory, you must feed information piece by piece, at the end the listener can see narrative from start to finish
+- Inspiring leaders revel in their failures. In stories and life, the road to satisfying experiences must pass through the terrain of discomfort.
+- Rags to riches – struggle stories motivate us to dream bigger, a very powerful message.
+- Building company culture: “Not to put people in Disney, but put Disney in people”
+- You don’t want employees thinking they are “making a living” but rather a part of something greater
+- Stories enable staff to identify with the brand
+- Raise a person’s self-esteem and you’ll be plugged into the most powerful energy. Practice making conscious effort to see positives in people and let them know.
+- Leaders embrace the past and have courage to share lessons they learned. Give people an idea of why you are the person you are today.
+- Oxytocin levels in a person’s brain can be “hacked”. If story is able to create tension, it can capture attention, attentive listeners will share common emotions/behaviors as those characters, and likely continue to do so after conclusion of the story
+- Use narrative of struggle and triumph for oxytocin bump.
+- Movements start with an inspiring story that transports listeners into another person’s shoes, vividly told with specific and concrete details.
+- More specifics in a story builds trust and truthfulness shines.
+- Brains do not process abstractions and generalities well. “One million people __” doesn’t move people like a story of a single person does.
+- Shorter words are usually more ancient and better connected with human spirit. Connects better to a broader audience. Big words don’t impress, they just frustrate.
+- Metaphor makes things relatable, anaphora (repeating of word) can add impact.
+- Stories can “transport” listeners. Those that do it best have likable characters who endure struggle.
+
+Pixar Movie Structure
+
+- Hero with a goal
+- Background – things are in balance
+- One day…
+- Because of that x2
+- Until finally…
+- Ever since then…
+- No amount of technology will turn a bad story into a good story.
+- Great brands and businesses have to be great storytellers.
+- Stories create, inspire, and guide others to play hero in their own life narrative.
+- Storytellers instill hope, hope is a universal desire.

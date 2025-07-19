@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Anthropology/Evolution.md",
+                "file": "Areas/Life/lessons.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "lessons"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Anthropology/Evolution.md",
+                "file": "Areas/Life/lessons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for lessons"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Anthropology/Evolution.md",
+                "file": "Areas/Life/lessons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from lessons"
             }
           },
           {
@@ -115,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Anthropology/Evolution.md"
-              }
+                "file": "Areas/Life/lessons.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of lessons"
             }
           }
         ],
@@ -134,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,46 +165,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cab94a11cf914ac",
+  "active": "a02c56781aec1d22",
   "lastOpenFiles": [
-    "Life/Cyclic Theory of Subcultures.md",
-    "Life/Understanding People/Books.md",
-    "Life/Understanding People",
-    "Life/Relationships/Win Friends & Influence People.md",
-    "Life/Relationships",
-    "Financial/Income/Making Money.md",
-    "Financial/Income",
-    "Career/Entrepreneurship/go giver.md",
-    "Life/twentysomething.md",
-    "Life/mindset and approach.md",
-    "Financial/Markets/Conceptual.md",
-    "Skills/Untitled.md",
-    "Financial/Markets",
-    "Skills/storytelling.md",
-    "Career/Sales/sales.md",
-    "Life/Anthropology/Charisma.md",
-    "Career/Sales",
-    "Career/Never Eat Alone.md",
-    "Career/Motivation/Self.md",
-    "Life/Anthropology/Ego.md",
-    "Career/Motivation",
-    "Career/Quotes.md",
-    "Career/Marketing/Product Market Fit.md",
-    "Career/Entrepreneurship",
-    "Life/Anthropology/Evolution.md",
-    "Career/Marketing",
-    "Career/Entrepreneurship/entrepreneurship.md",
-    "Life/Anthropology/Social Anxiety.md",
-    "Life/Anthropology",
-    "Life/humans.md",
-    "Life/habit building.md",
-    "Life/lessons.md",
-    "Career/Sales/Untitled.md",
-    "Career/Sales",
-    "Skills/minto.md",
-    "test.md"
+    "Areas/Financial/Markets/Conceptual.md",
+    "Areas/Career/Quotes.md",
+    "Book Notes/Zero to One by Peter Thiel.md",
+    "Book Notes/You are a Badass at Making Money by Jen Sincero.md",
+    "Book Notes/Thinkertoys by Michael Michalko.md",
+    "Book Notes/The Storyteller's Secret by Carmine Gallo.md",
+    "Book Notes/The Go-Giver by Bob Burg and John David Mann.md",
+    "Book Notes/The Defining Decade by Meg Jay.md",
+    "Book Notes/The Charisma Myth by Olivia Fox Cabane.md",
+    "Book Notes/The Alter Ego Effect by Todd Herman.md",
+    "Book Notes/Stories Great Leaders Tell.md",
+    "Book Notes/See You at the Top by Zig Ziglar.md",
+    "Book Notes/Purple Cow by Seth Godin.md",
+    "Book Notes/Never Eat Alone by Keith Ferrazzi.md",
+    "Book Notes/Market Mind Games by Denise Shull.md",
+    "Book Notes/Lessons and Inspirations.md",
+    "Book Notes/How to Win Friends & Influence People in the Digit.md",
+    "Book Notes/How to Be Yourself by Ellen Hendriksen.md",
+    "Book Notes/How Not to Die Alone.md",
+    "Book Notes/Dark Horse by Todd Rose.md",
+    "Book Notes/Creating Your Own Success by Robert Herjavec.md",
+    "Book Notes/13 Things Mentally Strong People Don't Do by Amy M.md",
+    "Book Notes/Atomic Habits.md",
+    "Zettelkasten/Index.md",
+    "Commonplace",
+    "Areas",
+    "Areas/Career/Marketing/Product Market Fit.md",
+    "README.md",
+    "Book Notes",
+    "Zettelkasten",
+    "Inbox",
+    "dbt",
+    "Areas/Life/Understanding People",
+    "Areas/Life/Relationships",
+    "Areas/Financial/Income",
+    "Areas/Financial/Markets"
   ]
 }
