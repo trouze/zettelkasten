@@ -11,14 +11,10 @@
             "id": "2cab94a11cf914ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Life/lessons.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "lessons"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Life/lessons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lessons"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Life/lessons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lessons"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Life/lessons.md",
+                "file": "Inbox/Quick Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lessons"
+              "title": "Outline of Quick Ideas"
             }
           }
         ],
@@ -156,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,6 +166,12 @@
   },
   "active": "a02c56781aec1d22",
   "lastOpenFiles": [
+    "Inbox/Slips",
+    "Inbox/Daily.md",
+    "Inbox/Quick Ideas.md",
+    "Templates",
+    "README.md",
+    "Areas/Life/lessons.md",
     "Areas/Financial/Markets/Conceptual.md",
     "Areas/Career/Quotes.md",
     "Book Notes/Zero to One by Peter Thiel.md",
@@ -192,20 +193,14 @@
     "Book Notes/How Not to Die Alone.md",
     "Book Notes/Dark Horse by Todd Rose.md",
     "Book Notes/Creating Your Own Success by Robert Herjavec.md",
-    "Book Notes/13 Things Mentally Strong People Don't Do by Amy M.md",
-    "Book Notes/Atomic Habits.md",
-    "Zettelkasten/Index.md",
     "Commonplace",
     "Areas",
-    "Areas/Career/Marketing/Product Market Fit.md",
-    "README.md",
     "Book Notes",
     "Zettelkasten",
     "Inbox",
     "dbt",
     "Areas/Life/Understanding People",
     "Areas/Life/Relationships",
-    "Areas/Financial/Income",
-    "Areas/Financial/Markets"
+    "Areas/Financial/Income"
   ]
 }
